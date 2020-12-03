@@ -7,7 +7,7 @@
 </h1>
 
 The link to the webpage is:
-<a href="https://suziestephen.github.io/hw2.github.io/"> Password Generator </a>
+<a href="https://suziestephen.github.io/password-generator-hw.github.io/"> Password Generator </a>
 
 
 <b>Usage:</b>
